@@ -1,6 +1,6 @@
 [project]
 name = "shipzo_plus"
-version = "0.1.1"
+version = "0.1.2"
 description = "Default template for PDM package"
 authors = [
     {name = "rlaehgus97", email = "starkim625@gmail.com"},
