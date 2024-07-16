@@ -5,5 +5,7 @@ The simple python plus function
 ```$pip install shipzo_plus```
 
 ### codes
+```
 def sum(a,b):
     print(a+b)
+```
